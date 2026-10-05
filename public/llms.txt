@@ -1,0 +1,75 @@
+# Nomadly — Strategic Intelligence for Space Markets
+
+> Nomadly is an innovative strategic intelligence consulting firm that democratizes access to global space and telecommunications markets through a network of experts and data-driven analysis.
+
+## About
+
+Nomadly was founded in 2024 by Manassé Bokole, a PhD candidate at HEIP School researching international trade in technology and space industries between Europe and the United States. The company fills a critical gap in market access for emerging space actors by providing strategic information, regulatory advice, and a network of local partners.
+
+Headquartered in the Île-de-France region (Paris), with an office in Kinshasa (Democratic Republic of Congo), Nomadly operates across three continents: Europe, Africa, and the Americas.
+
+## Core Services
+
+- **Regulatory Monitoring**: AI-powered tracking of international space regulations across 120+ countries, including ITAR/EAR compliance, dual-use technology monitoring, and automated alert systems.
+- **Partner Matching**: Proprietary matching algorithm connecting clients with pre-screened government partners, distributors, and stakeholders worldwide.
+- **Strategic Intelligence**: Market analysis, ecosystem mapping, and export strategy consulting for space and telecommunications companies.
+- **Nomadly Intelligence Platform** (in development): Web-based platform combining AI and human intelligence for regulatory monitoring and partner matching.
+
+## Key Facts
+
+- Founded: 2024
+- Founder: Manassé Bokole (PhD candidate, Business Diplomacy and International Trade)
+- Headquarters: Versailles, France (25 Rue du Maréchal Foch, 78000)
+- Second office: Le Perqo, 2 Rue Simone Veil, 93400 Saint-Ouen-sur-Seine, France
+- Regions served: Europe, Africa, Americas
+- 15+ institutional and ecosystem partners
+- 500+ public stakeholders mapped worldwide
+- Contact: contact@nomadly.fr | +33 7 61 91 10 49
+
+## Alignment with UN Sustainable Development Goals
+
+- SDG 4 (Education): Supporting scientific R&D cooperation and talent development
+- SDG 8 (Decent Work): Enabling SMEs and startups to scale internationally
+- SDG 9 (Industry & Innovation): Accelerating access to satellite and telecom infrastructure
+- SDG 17 (Partnerships): Building cross-border partnerships for sustainable space development
+
+## Recognition
+
+- National Student Entrepreneur status – Paris Sciences et Lettres University (PSL)
+- Winner, Entrepreneur Leader program – Yvelines Chamber of Commerce and Industry (CCI 78)
+- Project presentations at VivaTechnology 2025, Assises du New Space, Paris Air Show, Energy from Space conference
+- Rewarded Promising Project at Créatrices d'Avenir PARTNERS competition
+
+## Advisory Board
+
+- Philippe Boissat — CEO 3I3s LLC, French aeronautics medals (US, Florida)
+- Lionnel Baraban — President French Tech Houston, CEO Famoco (US, Texas)
+- Christelle Ebalantshim — Coordinator National Young for Action and Development – JADE (RDC)
+- Marc Vales — Vice President Dassault (France, Paris)
+- Jason Padona — Founder Geostrat, mentor data in humanitarian (RDC, Goma)
+
+## Partners Network
+
+### Europe
+CNES Experts, 3i3s-Europa, Space Woman Alliance (SWAN), Île-de-France Region, Réseau Initiative Seine Yvelines, CCI Yvelines Versailles, Pépite Start-up Île-de-France, Réseau Pépite France, PSL Pépite, ESA
+
+### Africa
+3i3s Africa, Federation of Enterprises of Congo (FEC), Geostrat, Era Congo, 4th Key Realty
+
+### Americas
+NASA experts, North Carolina University experts, La French Tech Houston, 3i3s-America, 3i3Signature LLC
+
+## Pages
+
+- [Home](https://www.nomadly.fr/)
+- [About](https://www.nomadly.fr/about)
+- [Partners](https://www.nomadly.fr/partners)
+- [Features](https://www.nomadly.fr/features)
+- [FAQ](https://www.nomadly.fr/faq)
+- [Blog](https://www.nomadly.fr/blog)
+- [Contact](https://www.nomadly.fr/contact)
+
+## Research & Publications
+
+- "Global Watch: Space Sustainability, Risks, and Opportunities" (November 2025)
+- "Interactive Map of Key Public Actors in Global Space Innovation" (November 2025) — dynamic cartography of 500+ key public stakeholders driving space innovation worldwide
