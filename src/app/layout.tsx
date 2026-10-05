@@ -20,7 +20,11 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.nomadly.fr"),
+  metadataBase: new URL(
+    process.env.VERCEL_URL
+      ? `https://${process.env.VERCEL_URL}`
+      : "https://nomadlyfr.vercel.app"
+  ),
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
   },
